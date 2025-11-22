@@ -1,4 +1,4 @@
-# Euron Recruitment Agent
+# Hiremate AI
 
 A browser-based recruitment assistant powered by local LLMs (Ollama + Llama 3) and Whisper for audio transcription. Features include resume analysis, Q&A, personalized interview questions, and voice answer evaluation.
 
