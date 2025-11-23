@@ -1,6 +1,7 @@
-# Hiremate AI
+![WhatsApp Image 2025-11-22 at 16 44 23_8a31b1ce](https://github.com/user-attachments/assets/a21e1f30-0bcc-4b38-b350-383347a370cf)# Hiremate AI
 
 A browser-based recruitment assistant powered by local LLMs (Ollama + Llama 3) and Whisper for audio transcription. Features include resume analysis, Q&A, personalized interview questions, and voice answer evaluation.
+
 
 ## Features
 - Resume analysis and improvement suggestions
